@@ -5,7 +5,7 @@ permalink: /terms/
 
 # Flickm Terms of Service
 
-**Effective date:** October 6, 2026
+**Effective date:** October 15, 2026
 
 These terms are an agreement between you and Green Hollow Apps LLC ("we", "us") about your use
 of the Flickm game ("the game"). By downloading or playing the game, you agree to them. If you do
@@ -114,4 +114,4 @@ above shows when it last changed. If you keep playing after a change, you accept
 ## Contact
 
 Green Hollow Apps LLC
-[drgreen28@gmail.com](mailto:drgreen28@gmail.com)
+[Dustin.green@greenhollowapps.com](mailto:Dustin.green@greenhollowapps.com)

@@ -5,7 +5,7 @@ permalink: /privacy/
 
 # Flickm Privacy Policy
 
-**Effective date:** October 6, 2026
+**Effective date:** October 15, 2026
 
 Flickm ("the game") is a puzzle game published by Green Hollow Apps LLC ("we", "us"). This policy
 explains what information the game handles and what choices you have. It applies to the game on
@@ -88,4 +88,4 @@ above shows when it last changed.
 ## Contact
 
 Green Hollow Apps LLC
-[drgreen28@gmail.com](mailto:drgreen28@gmail.com)
+[Dustin.green@greenhollowapps.com](mailto:Dustin.green@greenhollowapps.com)
