@@ -114,4 +114,4 @@ above shows when it last changed. If you keep playing after a change, you accept
 ## Contact
 
 Green Hollow Apps LLC
-[Dustin.green@greenhollowapps.com](mailto:Dustin.green@greenhollowapps.com)
+[support@greenhollowapps.com](mailto:support@greenhollowapps.com)

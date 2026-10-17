@@ -6,4 +6,4 @@ Flickm is a puzzle game for Android and iOS by Green Hollow Apps LLC.
 - [Terms of service](terms/)
 - [Pre-registration reward terms](preregistration/)
 
-Contact: [Dustin.green@greenhollowapps.com](mailto:Dustin.green@greenhollowapps.com)
+Contact: [support@greenhollowapps.com](mailto:support@greenhollowapps.com)

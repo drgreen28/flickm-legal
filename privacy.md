@@ -88,4 +88,4 @@ above shows when it last changed.
 ## Contact
 
 Green Hollow Apps LLC
-[Dustin.green@greenhollowapps.com](mailto:Dustin.green@greenhollowapps.com)
+[support@greenhollowapps.com](mailto:support@greenhollowapps.com)
